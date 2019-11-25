@@ -160,7 +160,7 @@ make install
 
 cd /usr/src 
 
-wget http://downloads.asterisk.org/pub/telephony/asterisk/asterisk-11-current.tar.gz
+wget http://downloads.asterisk.org/pub/telephony/asterisk/releases/asterisk-11.1.0.tar.gz
 
 tar -xf asterisk-11-current.tar.gz 
 
