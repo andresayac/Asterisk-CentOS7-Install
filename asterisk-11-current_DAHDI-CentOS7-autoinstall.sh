@@ -162,9 +162,9 @@ cd /usr/src
 
 wget http://downloads.asterisk.org/pub/telephony/asterisk/releases/asterisk-11.1.0.tar.gz
 
-tar -xf asterisk-11-current.tar.gz 
+tar -xf asterisk-11.1.0.tar.gz 
 
-cd asterisk-11.25.1 
+cd asterisk-11.1.0 
 
 ./contrib/scripts/install_prereq install
 
